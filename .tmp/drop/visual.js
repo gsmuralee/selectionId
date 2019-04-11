@@ -712,7 +712,7 @@ var powerbi;
                 displayName: 'selectionId',
                 class: 'Visual',
                 version: '1.0.0',
-                apiVersion: '2.1.0',
+                apiVersion: '2.3.0',
                 create: function (options) { return new powerbi.extensibility.visual.selectionIdFA1A2D668B2841AB95F46CDCDADF088E.Visual(options); },
                 custom: true
             };
